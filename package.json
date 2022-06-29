@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-cookiejar-support": "^4.0.2",
+    "jssoup": "^0.0.15",
+    "tough-cookie": "^4.0.0"
+  }
+}
